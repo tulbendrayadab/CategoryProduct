@@ -7,11 +7,17 @@ python3.6+
 
 Create virtual environments using below commands
 
-`python3 -m venv env
- source env/bin/activate
- pip install -r requirements.txt
- python manage.py migrate
- python manage.py runserver
+`python3 -m venv env`
+
+`cd category`
+
+ `source env/bin/activate`
+
+ `pip install -r requirements.txt`
+
+ `python manage.py migrate`
+
+ `python manage.py runserver`
 `
 
 
